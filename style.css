@@ -838,8 +838,7 @@ nav a.active {
 
 .map-box {
     width: 100%;
-    height: 100%;
-    min-height: 420px;
+    height: 420px;
     border-radius: 28px;
     overflow: hidden;
     box-shadow: 0 14px 35px rgba(0, 0, 0, 0.14);
@@ -851,7 +850,9 @@ nav a.active {
     width: 100%;
     height: 100%;
     border: 0;
+    display: block;
 }
+
 
 /* =========================================================
    12) الفوتر الموحد
