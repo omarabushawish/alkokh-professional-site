@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://omarabushawish.github.io/alkokh-professional-site/sitemap.xml
